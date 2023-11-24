@@ -4,3 +4,6 @@
 [submodule "NESS_BE"]
 	path = NESS_BE
 	url = https://github.com/studio-recoding/NESS_BE.git
+[submodule "MESS_ML"]
+	path = MESS_ML
+	url = https://github.com/studio-recoding/NESS_ML.git
